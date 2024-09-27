@@ -20,12 +20,15 @@ Theory of mind (ToM) refers to humans' ability to understand and infer the desir
 </div>
 
 To empower AI systems with the ToM ability and narrow the gap between them and humans,
+
 ✅ We propose COKE: the first cognitive knowledge graph for machine theory of mind. 
    Specifically, COKE formalizes ToM as a collection of 45k+ manually verified cognitive chains that characterize human mental activities and subsequent behavioral responses and affective responses when facing specific social circumstances. 
+
 ✅ We build a powerful cognitive language model COLM by associating COKE with LLaMA-2, so as to predict cognitive chains for out-of-KG situations. 
 
 ✅ We conduct extensive experiments to evaluate the ToM ability of COLM and typical LLMs. 
    The results show that COLM outperforms strong baseline models such as GPT-4 in both zero-shot and few-shot settings , proved by automatic and human evaluations in all cognitive generation tasks, which in turn demonstrates the high quality of COKE. 
+
 ✅ We further substantiate the potential of COKE in enhancing social applications and prove its effectiveness on downstream emotional support conversation tasks .
 
 
@@ -37,17 +40,17 @@ To empower AI systems with the ToM ability and narrow the gap between them and h
 
 ## Data Collection
 <div style="text-align: center;">
-  <img src="figures/COKE_Collection.png" alt="introduction" height: auto;>
+  <img src="figures/COKE_Collection.png" alt="COKE_Collection" height: auto;>
 </div>
 
 
 ## Experiment
 <div style="text-align: center;">
-  <img src="figures/figures/COKE_Tasks.png" alt="introduction" height: auto;>
+  <img src="figures/COKE_Tasks.png" alt="COKE_Tasks" height: auto;>
 </div>
 
 <div style="text-align: center;">
-  <img src="figures/COKE_Experiment.png" alt="introduction" height: auto;>
+  <img src="figures/COKE_Experiment.png" alt="COKE_Experiment" height: auto;>
 </div>
 
 ## Downstream Task
