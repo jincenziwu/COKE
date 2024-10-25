@@ -1,13 +1,28 @@
 # COKE: A Cognitive Knowledge Graph for Machine Theory of Mind
 
-
-We will release COKE as soon as possible. 💪
-
-Star this repo to receive the latest notifications. 🙌
-
-
 ## Hola! Welcome to the official repository for **COKE**! 
 
+Please find the COKE dataset at https://huggingface.co/datasets/Jincenzi/COKE.
+
+We will release COLM as soon as possible. 💪
+
+Star this repository to stay updated with the latest notifications. 🙌
+
+If you find this repository useful or our work is related to your research, please kindly cite it:
+
+```bib
+@inproceedings{wu-etal-2024-coke,
+    title = "{COKE}: A Cognitive Knowledge Graph for Machine Theory of Mind",
+    author = "Wu, Jincenzi  and
+      Chen, Zhuang  and
+      Deng, Jiawen  and
+      Sabour, Sahand  and
+      Meng, Helen  and
+      Huang, Minlie",
+    booktitle = "ACL",
+    year = "2024"
+}
+```
 
 
 ## What is Theory of Mind?
